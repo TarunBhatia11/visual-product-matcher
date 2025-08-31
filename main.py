@@ -1,7 +1,9 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from routes import upload, similar
-
+import os 
+from fastapi.staticfiles import StaticFiles
+from fastapi import FastAPI
 app = FastAPI()
 from fastapi.staticfiles import StaticFiles
 
