@@ -4,7 +4,7 @@ A web application that lets users **upload a product image** and find **visually
 Deployed with **Netlify (Frontend)** and **Render (Backend)**.  
 
 
-[Live Deployement](https://visualproductmatcher.netlify.app/)
+[Live Deployement - https://visualproductmatcher.netlify.app/](https://visualproductmatcher.netlify.app/)
 ---
 
 ## 📊 System Flow
@@ -63,8 +63,10 @@ visual-product-matcher/
 ```
 # Frontend Image
 <img width="1886" height="854" alt="Screenshot 2025-08-31 222657" src="https://github.com/user-attachments/assets/7d4ead39-a3a3-459a-a2af-71ffe14273c7" />
+
 # Upload DataBase Image
 <img width="1900" height="711" alt="Screenshot 2025-08-31 222632" src="https://github.com/user-attachments/assets/dc903e0e-51d9-4b3c-a190-92c0f743b9eb" />
+
 # DataSet DataBase
 <img width="1894" height="691" alt="Screenshot 2025-08-31 222614" src="https://github.com/user-attachments/assets/9b8c1a91-4156-40bc-a07a-7f20483c851e" />
 
@@ -160,3 +162,6 @@ Frontend: [Netlify → ](https://visualproductmatcher.netlify.app)
 Backend: Render (FastAPI server)
 
 
+# Social Media - Let's Connect
+[LinkedIn](https://www.linkedin.com/in/tarun-bhatia-b46a24271/)
+[PortFolio](https://tarunbhatiaportfolio.netlify.app/)
