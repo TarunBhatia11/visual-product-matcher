@@ -3,11 +3,31 @@
 A web application that lets users **upload a product image** and find **visually similar products** from a dataset using deep learning embeddings and FastAPI backend.  
 Deployed with **Netlify (Frontend)** and **Render (Backend)**.  
 
+
+[Live Deployement](https://visualproductmatcher.netlify.app/)
 ---
 
 ## 📊 System Flow
 
-```mermaid
+```
+Summary Flow
+Frontend (upload image) 
+   ↓
+Backend (FastAPI /upload)
+   ↓
+[Save + Embed + Classify (Gemini)]
+   ↓
+Store in uploads DB
+   ↓
+Ensure dataset (Unsplash → dataset DB)
+   ↓
+Similarity search (cosine)
+   ↓
+Return top matches
+   ↓
+Frontend displays results
+```
+```
 flowchart TD
     A[User Uploads Image] --> B[Frontend (React + Netlify)]
     B --> C[API Call /api/upload]
