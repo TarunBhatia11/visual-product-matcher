@@ -1,9 +1,11 @@
 fastapi
 uvicorn
-pymongo
-motor
 tensorflow
 numpy
-scikit-learn
 pillow
+scikit-learn
 python-dotenv
+requests
+pymongo
+motor
+python-multipart   
