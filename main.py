@@ -6,7 +6,9 @@ app = FastAPI()
 from fastapi.staticfiles import StaticFiles
 
 # Serve your dataset images and uploaded files to the browser
-app.mount("/static", StaticFiles(directory="data/images"), name="static")
+# Only mount if directory exists
+if os.path.isdir("data/images"):
+    app.mount("/static", StaticFiles(directory="data/images"), name="static")
 app.mount("/uploads", StaticFiles(directory="uploads"), name="uploads")
 
 
