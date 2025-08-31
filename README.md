@@ -62,12 +62,10 @@ visual-product-matcher/
 └── README.md
 ```
 
-<img width="630" height="433" alt="Screenshot 2025-08-30 222657" src="https://github.com/user-attachments/assets/05b90ae9-ffb6-4d44-86b0-52feec30781f" />
-<img width="630" height="433" alt="Screenshot 2025-08-30 222741" src="https://github.com/user-attachments/assets/05b90ae9-ffb6-4d44-86b0-52feec30781f" />
-<img width="630" height="433" alt="Screenshot 2025-08-30 222632" src="https://github.com/user-attachments/assets/05b90ae9-ffb6-4d44-86b0-52feec30781f" />
-<img width="630" height="433" alt="Screenshot 2025-08-30 222614" src="https://github.com/user-attachments/assets/05b90ae9-ffb6-4d44-86b0-52feec30781f" />
-
-
+[Screenshot 2025-08-31 222657.png]
+[Screenshot 2025-08-31 222741.png]
+[Screenshot 2025-08-31 222632.png]
+[Screenshot 2025-08-31 222614.png]
 
 # ⚡ Tech Stack
 ## 🌐 Frontend
